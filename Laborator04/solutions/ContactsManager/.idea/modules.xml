@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContactsManager.iml" filepath="$PROJECT_DIR$/ContactsManager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ContactsManager.iml" filepath="$PROJECT_DIR$/.idea/modules/ContactsManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ContactsManager.app.unitTest.iml" />
     </modules>
   </component>
 </project>
